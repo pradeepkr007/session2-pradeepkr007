@@ -33,6 +33,7 @@ def reserved_Function():
 
 def clear_memory(collection: List[Something]):
     # you probably need to add some comment here
+    # you probably need to add some comment here
 
     
     collection.clear()
